@@ -1,16 +1,62 @@
-# gpacalculator
+📱 GPA Calculator - Flutter App
+A sleek and user-friendly GPA Calculator built with Flutter, designed for engineering students to compute SGPA (Semester GPA) and CGPA (Cumulative GPA) effortlessly. The app dynamically loads subjects based on the selected department and semester.
 
-A new Flutter project.
+✨ Features
+🎓 Calculate SGPA and CGPA
 
-## Getting Started
+🏫 Select your branch and semester
 
-This project is a starting point for a Flutter application.
+📚 Auto-load subjects and credits based on selection
 
-A few resources to get you started if this is your first Flutter project:
+💡 Clean and intuitive UI design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔒 No sign-in required (lightweight and fast)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 Mobile responsive layout (Android support)
+
+📸 Screenshots
+(Add screenshots here if available: assets/screenshots/home.png, etc.)
+
+🚀 Getting Started
+📦 Prerequisites
+Flutter SDK
+
+Dart >= 2.18.0
+
+Android Studio or VS Code
+
+🛠️ Installation
+bash
+Copy
+Edit
+git clone https://github.com/your-username/gpa-calculator-flutter.git
+cd gpa-calculator-flutter
+flutter pub get
+flutter run
+🏗️ App Structure
+bash
+Copy
+Edit
+lib/
+│
+├── main.dart                # App entry point
+├── pages/
+│   ├── home_page.dart       # Landing page (SGPA / CGPA)
+│   ├── sgpa_input.dart      # SGPA calculation page
+│   ├── cgpa_input.dart      # CGPA calculation page
+│
+├── widgets/                 # Custom reusable UI widgets
+├── models/                 # Subject & branch models
+└── utils/                  # Helper functions, constants
+🔧 Customization
+To update the branch/semester data, edit the files in models/ folder.
+
+To change UI styles, modify theme or widgets/.
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🙌 Acknowledgements
+Flutter and Dart team
+
+Open-source contributors
