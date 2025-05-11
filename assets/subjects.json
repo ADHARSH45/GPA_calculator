@@ -1,0 +1,405 @@
+{
+    "Computer Science": {
+      "1": [
+        {"name": "LINEAR ALGEBRA AND CALCULUS", "credits": 4},
+        {"name": "ENGINEERING PHYSICS A / ENGINEERING CHEMISTRY", "credits":4},
+        {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS", "credits": 3},
+        {"name":"BASICS O F CIVIL & MECHANICAL ENGINEERING/ BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING", "credits":4},
+        {"name":"ENGINEERING PHYSICS LAB / ENGINEERING CHEMISTRY LAB","credits":1},
+        {"name":"CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP","credits":1}
+      ],
+      "2": [
+        {"name": "VECTOR CALCULUS , DIFFERENTIAL EQUATIONS AND TRANSFORMS", "credits": 4},
+        {"name": "ENGINEERING PHYSICS A / ENGINEERING CHEMISTRY", "credits":4},
+        {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS", "credits": 3},
+        {"name":"BASICS O F CIVIL & MECHANICAL ENGINEERING/ BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING", "credits":4},
+        {"name":"ENGINEERING PHYSICS LAB / ENGINEERING CHEMISTRY LAB","credits":1},
+        {"name":"CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP","credits":1},
+        {"name":"PROGRAMMING IN C","credits":4}
+      ],
+      "3": [
+      {"name": "DISCRETE MATHEMATICAL STRUCTURES", "credits": 4},
+      {"name": "DATA STRUCTURES", "credits": 4},
+      {"name": "LOGIC SYSTEM DESIGN", "credits": 4},
+      {"name": "OBJECT ORIENTED PROGRAMMING USING JAVA", "credits": 4},
+      {"name": "DESIGN & ENGINEERING / PROFESSIONAL ETHICS", "credits": 2},
+      {"name": "SUSTAINABLE ENGINEERING", "credits": 0},
+      {"name": "DATA STRUCTURES LAB", "credits": 2},
+      {"name": "OBJECT ORIENTED PROGRAMMING LAB (IN JAVA)", "credits": 2}
+    ],
+    "4": [
+      {"name": "GRAPH THEORY", "credits": 4},
+      {"name": "COMPUTER ORGANIZATION AND ARCHITECTURE", "credits": 4},
+      {"name": "DATABASE MANAGEMENT SYSTEMS", "credits": 4},
+      {"name": "OPERATING SYSTEMS", "credits": 4},
+      {"name": "DESIGN & ENGINEERING / PROFESSIONAL ETHICS", "credits": 2},
+      {"name": "CONSTITUTION OF INDIA", "credits": 0},
+      {"name": "DIGITAL LAB", "credits": 2},
+      {"name": "OPERATING SYSTEMS LAB", "credits": 2}
+    ],
+    "5": [
+      {"name": "FORMAL LANGUAGES AND AUTOMATA THEORY", "credits": 4},
+      {"name": "COMPUTER NETWORKS", "credits": 4},
+      {"name": "SYSTEM SOFTWARE", "credits": 4},
+      {"name": "MICROPROCESSORS AND MICROCONTROLLERS", "credits": 4},
+      {"name": "MANAGEMENT OF SOFTWARE SYSTEMS", "credits": 3},
+      {"name": "DISASTER MANAGEMENT", "credits": 0},
+      {"name": "SYSTEM SOFTWARE AND MICROPROCESSORS LAB", "credits": 2},
+      {"name": "DATABASE MANAGEMENT SYSTEMS LAB", "credits": 2}
+    ],
+    "6": [
+      {"name": "COMPILER DESIGN", "credits": 4},
+      {"name": "COMPUTER GRAPHICS AND IMAGE PROCESSING", "credits": 4},
+      {"name": "ALGORITHM ANALYSIS AND DESIGN", "credits": 4},
+      {"name": "PROGRAM ELECTIVE I", "credits": 3},
+      {"name": "INDUSTRIAL ECONOMICS & FOREIGN TRADE", "credits": 3},
+      {"name": "COMPREHENSIVE COURSE WORK", "credits": 1},
+      {"name": "NETWORKING LAB", "credits": 2},
+      {"name": "MINIPROJECT", "credits": 2}
+    ],
+    "7": [
+      {"name": "ARTIFICIAL INTELLIGENCE", "credits": 3},
+      {"name": "PROGRAM ELECTIVE II", "credits": 3},
+      {"name": "OPEN ELECTIVE", "credits": 3},
+      {"name": "INDUSTRIAL SAFETY ENGINEERING", "credits": 0},
+      {"name": "COMPILER LAB", "credits": 2},
+      {"name": "SEMINAR", "credits": 2},
+      {"name": "PROJECT PHASE I", "credits": 2}
+    ],
+    "8": [
+      {"name": "DISTRIBUTED COMPUTING", "credits": 3},
+      {"name": "PROGRAM ELECTIVE III", "credits": 3},
+      {"name": "PROGRAM ELECTIVE IV", "credits": 3},
+      {"name": "PROGRAM ELECTIVE V", "credits": 3},
+      {"name": "COMPREHENSIVE COURSE VIVA", "credits": 1},
+      {"name": "PROJECT PHASE II", "credits": 6}
+    ]
+    
+      
+    },
+    
+      "Civil Engineering": {
+        "1": [
+          {"name": "LINEAR ALGEBRA AND CALCULUS", "credits": 4},
+          {"name": "ENGINEERING PHYSICS B / ENGINEERING CHEMISTRY", "credits": 4},
+          {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS", "credits": 3},
+          {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING", "credits": 4},
+          {"name": "ENGINEERING PHYSICS LAB / ENGINEERING CHEMISTRY LAB", "credits": 1},
+          {"name": "CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP", "credits": 1}
+        ],
+        "2": [
+          {"name": "VECTOR CALCULUS, DIFFERENTIAL EQUATIONS AND TRANSFORMS", "credits": 4},
+          {"name": "ENGINEERING PHYSICS B / ENGINEERING CHEMISTRY", "credits": 4},
+          {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS", "credits": 3},
+          {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING", "credits": 4},
+          {"name": "ENGINEERING PHYSICS LAB / ENGINEERING CHEMISTRY LAB", "credits": 1},
+          {"name": "CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP", "credits": 1},
+          {"name": "PROGRAMMING IN C", "credits": 4}
+        ],
+        "3": [
+          {"name": "PARTIAL DIFFERENTIAL EQUATION AND COMPLEX ANALYSIS", "credits": 4},
+          {"name": "MECHANICS OF SOLIDS", "credits": 4},
+          {"name": "FLUID MECHANICS & HYDRAULICS", "credits": 4},
+          {"name": "SURVEYING & GEOMATICS", "credits": 4},
+          {"name": "DESIGN & ENGINEERING / PROFESSIONAL ETHICS", "credits": 2},
+          {"name": "SUSTAINABLE ENGINEERING", "credits": 0},
+          {"name": "CIVIL ENGINEERING PLANNING & DRAFTING LAB", "credits": 2},
+          {"name": "SURVEY LAB", "credits": 2}
+        ],
+        "4": [
+          {"name": "PROBABILITY, STATISTICS AND NUMERICAL METHODS", "credits": 4},
+          {"name": "ENGINEERING GEOLOGY", "credits": 4},
+          {"name": "GEOTECHNICAL ENGINEERING – I", "credits": 4},
+          {"name": "TRANSPORTATION ENGINEERING", "credits": 4},
+          {"name": "DESIGN & ENGINEERING / PROFESSIONAL ETHICS", "credits": 2},
+          {"name": "CONSTITUTION OF INDIA", "credits": 0},
+          {"name": "MATERIAL TESTING LAB – I", "credits": 2},
+          {"name": "FLUID MECHANICS LAB", "credits": 2}
+        ],
+        "5": [
+          {"name": "STRUCTURAL ANALYSIS – I", "credits": 4},
+          {"name": "DESIGN OF CONCRETE STRUCTURES", "credits": 4},
+          {"name": "GEOTECHNICAL ENGINEERING – II", "credits": 4},
+          {"name": "HYDROLOGY & WATER RESOURCES ENGINEERING", "credits": 4},
+          {"name": "CONSTRUCTION TECHNOLOGY & MANAGEMENT", "credits": 3},
+          {"name": "DISASTER MANAGEMENT", "credits": 0},
+          {"name": "MATERIAL TESTING LAB – II", "credits": 2},
+          {"name": "GEOTECHNICAL ENGINEERING LAB", "credits": 2}
+        ],
+        "6": [
+          {"name": "STRUCTURAL ANALYSIS – II", "credits": 4},
+          {"name": "ENVIRONMENTAL ENGINEERING", "credits": 4},
+          {"name": "DESIGN OF HYDRAULIC STRUCTURES", "credits": 4},
+          {"name": "PROGRAM ELECTIVE I", "credits": 3},
+          {"name": "INDUSTRIAL ECONOMICS & FOREIGN TRADE", "credits": 3},
+          {"name": "COMPREHENSIVE COURSE WORK", "credits": 1},
+          {"name": "TRANSPORTATION ENGINEERING LAB", "credits": 2},
+          {"name": "CIVIL ENGINEERING SOFTWARE LAB", "credits": 2}
+        ],
+        "7": [
+          {"name": "DESIGN OF STEEL STRUCTURES", "credits": 3},
+          {"name": "PROGRAM ELECTIVE II", "credits": 3},
+          {"name": "OPEN ELECTIVE", "credits": 3},
+          {"name": "INDUSTRIAL SAFETY ENGINEERING", "credits": 0},
+          {"name": "ENVIRONMENTAL ENGINEERING LAB", "credits": 2},
+          {"name": "SEMINAR", "credits": 2},
+          {"name": "PROJECT PHASE I", "credits": 2}
+        ],
+        "8": [
+          {"name": "QUANTITY SURVEYING & VALUATION", "credits": 3},
+          {"name": "PROGRAM ELECTIVE III", "credits": 3},
+          {"name": "PROGRAM ELECTIVE IV", "credits": 3},
+          {"name": "PROGRAM ELECTIVE V", "credits": 3},
+          {"name": "COMPREHENSIVE VIVA VOCE", "credits": 1},
+          {"name": "PROJECT PHASE II", "credits": 4}
+        ]
+      },
+      
+        "Mechanical Engineering": {
+          "1": [
+            {"name": "LINEAR ALGEBRA AND CALCULUS", "credits": 4},
+            {"name": "ENGINEERING PHYSICS B / ENGINEERING CHEMISTRY", "credits": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS", "credits": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING", "credits": 4},
+            {"name": "LIFE SKILLS", "credits": 0},
+            {"name": "ENGINEERING PHYSICS LAB / ENGINEERING CHEMISTRY LAB", "credits": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP", "credits": 1}
+          ],
+          "2": [
+            {"name": "VECTOR CALCULUS, DIFFERENTIAL EQUATIONS AND TRANSFORMS", "credits": 4},
+            {"name": "ENGINEERING PHYSICS B / ENGINEERING CHEMISTRY", "credits": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS", "credits": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING", "credits": 4},
+            {"name": "PROFESSIONAL COMMUNICATION", "credits": 0},
+            {"name": "PROGRAMMING IN C", "credits": 4},
+            {"name": "ENGINEERING PHYSICS LAB / ENGINEERING CHEMISTRY LAB", "credits": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP", "credits": 1}
+          ],
+          "3": [
+            {"name": "PARTIAL DIFFERENTIAL EQUATION AND COMPLEX ANALYSIS", "credits": 4},
+            {"name": "MECHANICS OF SOLIDS", "credits": 4},
+            {"name": "MECHANICS OF FLUIDS", "credits": 4},
+            {"name": "METALLURGY & MATERIAL SCIENCE", "credits": 4},
+            {"name": "DESIGN AND ENGINEERING / PROFESSIONAL ETHICS", "credits": 2},
+            {"name": "SUSTAINABLE ENGINEERING", "credits": 0},
+            {"name": "COMPUTER AIDED MACHINE DRAWING", "credits": 2},
+            {"name": "MATERIALS TESTING LAB", "credits": 2}
+          ],
+          "4": [
+            {"name": "PROBABILITY, STATISTICS AND NUMERICAL METHODS", "credits": 4},
+            {"name": "ENGINEERING THERMODYNAMICS", "credits": 4},
+            {"name": "MANUFACTURING PROCESS", "credits": 4},
+            {"name": "FLUID MACHINERY", "credits": 4},
+            {"name": "DESIGN AND ENGINEERING / PROFESSIONAL ETHICS", "credits": 2},
+            {"name": "CONSTITUTION OF INDIA", "credits": 0},
+            {"name": "FM & HM LAB", "credits": 2},
+            {"name": "MACHINE TOOLS LAB-I", "credits": 2}
+          ],
+          "5": [
+            {"name": "MECHANICS OF MACHINERY", "credits": 4},
+            {"name": "THERMAL ENGINEERING", "credits": 4},
+            {"name": "INDUSTRIAL & SYSTEMS ENGINEERING", "credits": 4},
+            {"name": "MACHINE TOOLS AND METROLOGY", "credits": 4},
+            {"name": "INDUSTRIAL ECONOMICS AND FOREIGN TRADE / MANAGEMENT FOR ENGINEERS", "credits": 3},
+            {"name": "DISASTER MANAGEMENT", "credits": 0},
+            {"name": "MACHINE TOOLS LAB-II", "credits": 2},
+            {"name": "THERMAL ENGINEERING LAB-I", "credits": 2}
+          ],
+          "6": [
+            {"name": "HEAT & MASS TRANSFER", "credits": 4},
+            {"name": "DYNAMICS AND DESIGN OF MACHINERY", "credits": 4},
+            {"name": "ADVANCED MANUFACTURING ENGINEERING", "credits": 4},
+            {"name": "PROGRAM ELECTIVE I", "credits": 3},
+            {"name": "INDUSTRIAL ECONOMICS AND FOREIGN TRADE / MANAGEMENT FOR ENGINEERS", "credits": 3},
+            {"name": "COMPREHENSIVE COURSE WORK", "credits": 1},
+            {"name": "COMPUTER AIDED DESIGN & ANALYSIS LAB", "credits": 2},
+            {"name": "THERMAL ENGINEERING LAB-II", "credits": 2}
+          ],
+          "7": [
+            {"name": "DESIGN OF MACHINE ELEMENTS", "credits": 3},
+            {"name": "PROGRAM ELECTIVE II", "credits": 3},
+            {"name": "OPEN ELECTIVE", "credits": 3},
+            {"name": "INDUSTRIAL SAFETY ENGINEERING", "credits": 0},
+            {"name": "MECHANICAL ENGINEERING LAB", "credits": 2},
+            {"name": "SEMINAR", "credits": 2},
+            {"name": "PROJECT PHASE I", "credits": 2}
+          ],
+          "8": [
+            {"name": "MECHATRONICS", "credits": 3},
+            {"name": "PROGRAM ELECTIVE III", "credits": 3},
+            {"name": "PROGRAM ELECTIVE IV", "credits": 3},
+            {"name": "PROGRAM ELECTIVE V", "credits": 3},
+            {"name": "COMPREHENSIVE VIVA VOCE", "credits": 1},
+            {"name": "PROJECT PHASE II", "credits": 4}
+          ]
+        },
+        
+          "Electronics and Communication": {
+            "1": [
+              {"name": "LINEAR ALGEBRA AND CALCULUS", "credits": 4},
+              {"name": "ENGINEERING PHYSICS A / ENGINEERING CHEMISTRY", "credits": 4},
+              {"name": "BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING", "credits": 4},
+              {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS", "credits": 3},
+              {"name": "LIFE SKILLS", "credits": 0},
+              {"name": "ENGINEERING PHYSICS LAB / ENGINEERING CHEMISTRY LAB", "credits": 1},
+              {"name": "ELECTRICAL & ELECTRONICS WORKSHOP", "credits": 1}
+            ],
+            "2": [
+              {"name": "VECTOR CALCULUS, DIFFERENTIAL EQUATIONS AND TRANSFORMS", "credits": 4},
+              {"name": "ENGINEERING PHYSICS A / ENGINEERING CHEMISTRY", "credits": 4},
+              {"name": "BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING", "credits": 4},
+              {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS", "credits": 3},
+              {"name": "PROFESSIONAL COMMUNICATION", "credits": 0},
+              {"name": "PROGRAMMING IN C", "credits": 4},
+              {"name": "ENGINEERING PHYSICS LAB / ENGINEERING CHEMISTRY LAB", "credits": 1},
+              {"name": "ELECTRICAL & ELECTRONICS WORKSHOP", "credits": 1}
+            ],
+            "3": [
+              {"name": "SIGNALS AND SYSTEMS", "credits": 4},
+              {"name": "ELECTRONIC DEVICES AND CIRCUITS", "credits": 4},
+              {"name": "DIGITAL ELECTRONICS", "credits": 4},
+              {"name": "NETWORK THEORY", "credits": 4},
+              {"name": "DESIGN AND ENGINEERING / PROFESSIONAL ETHICS", "credits": 2},
+              {"name": "SUSTAINABLE ENGINEERING", "credits": 0},
+              {"name": "ELECTRONIC DEVICES AND CIRCUITS LAB", "credits": 2},
+              {"name": "DIGITAL ELECTRONICS LAB", "credits": 2}
+            ],
+            "4": [
+              {"name": "PROBABILITY, STATISTICS AND NUMERICAL METHODS", "credits": 4},
+              {"name": "MICROPROCESSORS AND MICROCONTROLLERS", "credits": 4},
+              {"name": "ANALOG CIRCUITS", "credits": 4},
+              {"name": "ELECTROMAGNETIC THEORY", "credits": 4},
+              {"name": "CONSTITUTION OF INDIA", "credits": 0},
+              {"name": "MICROPROCESSORS AND MICROCONTROLLERS LAB", "credits": 2},
+              {"name": "ANALOG CIRCUITS LAB", "credits": 2}
+            ],
+            "5": [
+              {"name": "COMMUNICATION THEORY", "credits": 4},
+              {"name": "VLSI DESIGN", "credits": 4},
+              {"name": "DIGITAL SIGNAL PROCESSING", "credits": 4},
+              {"name": "CONTROL SYSTEMS", "credits": 4},
+              {"name": "DISASTER MANAGEMENT", "credits": 0},
+              {"name": "VLSI DESIGN LAB", "credits": 2},
+              {"name": "DIGITAL SIGNAL PROCESSING LAB", "credits": 2}
+            ],
+            "6": [
+              {"name": "WIRELESS COMMUNICATION", "credits": 4},
+              {"name": "EMBEDDED SYSTEMS", "credits": 4},
+              {"name": "PROGRAM ELECTIVE I", "credits": 3},
+              {"name": "OPEN ELECTIVE I", "credits": 3},
+              {"name": "COMPREHENSIVE COURSE WORK", "credits": 1},
+              {"name": "EMBEDDED SYSTEMS LAB", "credits": 2},
+              {"name": "COMMUNICATION LAB", "credits": 2}
+            ],
+            "7": [
+              {"name": "OPTICAL COMMUNICATION", "credits": 3},
+              {"name": "PROGRAM ELECTIVE II", "credits": 3},
+              {"name": "OPEN ELECTIVE II", "credits": 3},
+              {"name": "INDUSTRIAL TRAINING", "credits": 0},
+              {"name": "SEMINAR", "credits": 2},
+              {"name": "PROJECT PHASE I", "credits": 2}
+            ],
+            "8": [
+              {"name": "INTERNET OF THINGS", "credits": 3},
+              {"name": "PROGRAM ELECTIVE III", "credits": 3},
+              {"name": "PROGRAM ELECTIVE IV", "credits": 3},
+              {"name": "PROGRAM ELECTIVE V", "credits": 3},
+              {"name": "COMPREHENSIVE VIVA VOCE", "credits": 1},
+              {"name": "PROJECT PHASE II", "credits": 4}
+            ]
+          },
+          
+             "Electrical and Electronics":{
+                "1": [
+                  {"name": "LINEAR ALGEBRA AND CALCULUS", "credits": 4},
+                  {"name": "ENGINEERING PHYSICS A / ENGINEERING CHEMISTRY", "credits": 4},
+                  {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS", "creditss": 3},
+                  {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING", "credits": 4},
+                  {"name": "LIFE SKILLS", "credits": 0},
+                  {"name": "ENGINEERING PHYSICS LAB / ENGINEERING CHEMISTRY LAB", "credits": 1},
+                  {"name": "CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP", "credits": 1}
+                ],
+              
+              
+                "2": [
+                  {"name": "VECTOR CALCULUS, DIFFERENTIAL EQUATIONS AND TRANSFORMS", "credits": 4},
+                  {"name": "ENGINEERING PHYSICS A / ENGINEERING CHEMISTRY", "credits": 4},
+                  {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS", "credits": 3},
+                  {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING", "credits": 4},
+                  {"name": "PROFESSIONAL COMMUNICATION", "credits": 0},
+                  {"name": "PROGRAMMING IN C", "credits": 4},
+                  {"name": "ENGINEERING PHYSICS LAB / ENGINEERING CHEMISTRY LAB", "credits": 1},
+                  {"name": "CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP", "credits": 1}
+                ],
+            
+              "3": [
+                  {"name": "PARTIAL DIFFERENTIAL EQUATION AND COMPLEX ANALYSIS", "credits": 4},
+                  {"name": "CIRCUITS AND NETWORKS", "credits": 4},
+                  {"name": "MEASUREMENTS AND INSTRUMENTATION", "credits": 4},
+                  {"name": "ANALOG ELECTRONICS", "credits": 4},
+                  {"name": "DESIGN & ENGINEERING / PROFESSIONAL ETHICS", "credits": 2},
+                  {"name": "SUSTAINABLE ENGINEERING", "credits": 0},
+                  {"name": "CIRCUITS AND MEASUREMENTS LAB", "credits": 2},
+                  {"name": "ANALOG ELECTRONICS LAB", "credits": 2}
+                ],
+              
+                "4": [
+                  {"name": "PROBABILITY, RANDOM PROCESSES AND NUMERICAL METHODS", "credits": 4},
+                  {"name": "DC MACHINES AND TRANSFORMERS", "credits": 4},
+                  {"name": "ELECTROMAGNETIC THEORY", "credits": 4},
+                  {"name": "DIGITAL ELECTRONICS", "credits": 4},
+                  {"name": "DESIGN & ENGINEERING / PROFESSIONAL ETHICS", "credits": 2},
+                  {"name": "CONSTITUTION OF INDIA", "credits": 0},
+                  {"name": "ELECTRICAL MACHINES LAB I", "credits": 2},
+                  {"name": "DIGITAL ELECTRONICS LAB", "credits": 2}
+                ],
+              "5": [
+                  {"name": "POWER SYSTEMS I", "credits": 4},
+                  {"name": "MICROPROCESSORS AND MICROCONTROLLERS", "credits": 4},
+                  {"name": "SIGNALS AND SYSTEMS", "credits": 4},
+                  {"name": "SYNCHRONOUS AND INDUCTION MACHINES", "credits": 4},
+                  {"name": "INDUSTRIAL ECONOMICS & FOREIGN TRADE / MANAGEMENT FOR ENGINEERS", "credits": 3},
+                  {"name": "DISASTER MANAGEMENT", "credits": 0},
+                  {"name": "MICROPROCESSORS AND MICROCONTROLLERS LAB", "credits": 2},
+                  {"name": "ELECTRICAL MACHINES LAB II", "credits": 2}
+                ],
+             "6": [
+                  {"name": "LINEAR CONTROL SYSTEMS", "credits": 4},
+                  {"name": "POWER SYSTEMS II", "credits": 4},
+                  {"name": "POWER ELECTRONICS", "credits": 4},
+                  {"name": "PROGRAM ELECTIVE I", "credits": 3},
+                  {"name": "INDUSTRIAL ECONOMICS & FOREIGN TRADE / MANAGEMENT FOR ENGINEERS", "credits": 3},
+                  {"name": "COMPREHENSIVE COURSE WORK", "credits": 1},
+                  {"name": "POWER SYSTEMS LAB", "credits": 2},
+                  {"name": "POWER ELECTRONICS LAB", "credits": 2}
+                ],
+              
+             "7": [
+                  {"name": "ADVANCED CONTROL SYSTEMS", "credits": 3},
+                  {"name": "PROGRAM ELECTIVE II", "credits": 3},
+                  {"name": "OPEN ELECTIVE", "credits": 3},
+                  {"name": "INDUSTRIAL SAFETY ENGINEERING", "credits": 0},
+                  {"name": "CONTROL SYSTEMS LAB", "credits": 2},
+                  {"name": "SEMINAR", "credits": 2},
+                  {"name": "PROJECT PHASE I", "credits": 2}
+                ],
+            
+              "8": [
+                  {"name": "ELECTRICAL SYSTEM DESIGN AND ESTIMATION", "credits": 3},
+                  {"name": "PROGRAM ELECTIVE III", "credits": 3},
+                  {"name": "PROGRAM ELECTIVE IV", "credits": 3},
+                  {"name": "PROGRAM ELECTIVE V", "credits": 3},
+                  {"name": "COMPREHENSIVE COURSE VIVA", "credits": 1},
+                  {"name": "PROJECT PHASE II", "credits": 4}
+                ]
+              }
+            
+          }
+          
+        
+      
+      
+    
+    
+  
+  
