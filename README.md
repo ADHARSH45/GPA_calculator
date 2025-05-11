@@ -1,62 +1,79 @@
-📱 GPA Calculator - Flutter App
-A sleek and user-friendly GPA Calculator built with Flutter, designed for engineering students to compute SGPA (Semester GPA) and CGPA (Cumulative GPA) effortlessly. The app dynamically loads subjects based on the selected department and semester.
+🎓 GPA Calculator App (Flutter)
+A beautifully designed GPA Calculator built using Flutter, tailored for engineering students to quickly and accurately calculate SGPA (Semester Grade Point Average) and CGPA (Cumulative Grade Point Average).
 
-✨ Features
-🎓 Calculate SGPA and CGPA
+🚀 Fast, intuitive, and mobile-friendly app with automatic subject loading based on selected department and semester.
 
-🏫 Select your branch and semester
+📲 Features
+✅ Calculate SGPA and CGPA
+✅ Select Department & Semester
+✅ Auto-load subjects and credits
+✅ Responsive UI for Android devices
+✅ Clean, modern Flutter UI design
+✅ No sign-in or user tracking
 
-📚 Auto-load subjects and credits based on selection
+🖼️ Preview
+(Include these only if available. You can upload screenshots to the assets/screenshots/ folder and reference them below.)
 
-💡 Clean and intuitive UI design
+Home Page	SGPA Page	CGPA Page
 
-🔒 No sign-in required (lightweight and fast)
+🏗️ Tech Stack
+💙 Flutter (UI toolkit)
 
-📱 Mobile responsive layout (Android support)
+🎯 Dart (programming language)
 
-📸 Screenshots
-(Add screenshots here if available: assets/screenshots/home.png, etc.)
+📱 Material Design & Custom Widgets
 
-🚀 Getting Started
-📦 Prerequisites
-Flutter SDK
+📦 Installation & Setup
+Clone the repository
 
-Dart >= 2.18.0
-
-Android Studio or VS Code
-
-🛠️ Installation
 bash
 Copy
 Edit
 git clone https://github.com/your-username/gpa-calculator-flutter.git
 cd gpa-calculator-flutter
+Get dependencies
+
+bash
+Copy
+Edit
 flutter pub get
+Run the app
+
+bash
+Copy
+Edit
 flutter run
-🏗️ App Structure
+⚠️ Ensure Flutter SDK and Android Studio/Emulator are set up properly.
+
+📁 Project Structure
 bash
 Copy
 Edit
 lib/
-│
-├── main.dart                # App entry point
-├── pages/
-│   ├── home_page.dart       # Landing page (SGPA / CGPA)
-│   ├── sgpa_input.dart      # SGPA calculation page
-│   ├── cgpa_input.dart      # CGPA calculation page
-│
-├── widgets/                 # Custom reusable UI widgets
-├── models/                 # Subject & branch models
-└── utils/                  # Helper functions, constants
-🔧 Customization
-To update the branch/semester data, edit the files in models/ folder.
+├── main.dart               # App entry point
+├── pages/                 # UI screens (SGPA, CGPA, Home)
+├── widgets/               # Reusable UI components
+├── models/                # Data models for subjects, departments
+├── utils/                 # Helpers and constants
+└── assets/                # Screenshots, logos, etc.
+🛠️ Customization
+To update subject data or branch-semester mappings:
 
-To change UI styles, modify theme or widgets/.
+Modify JSON/data in models/
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Update department dropdown logic in sgpa_input.dart
 
-🙌 Acknowledgements
-Flutter and Dart team
+🎯 Future Improvements
+🌐 Add multi-university support
 
-Open-source contributors
+📊 Export GPA history
+
+🔒 Add optional login & save progress
+
+🌙 Dark mode toggle
+
+👨‍💻 Author
+Your Name
+📧 [adharshmv70@gmail.com]
+🔗 [Portfolio / LinkedIn / GitHub link if available]
+
